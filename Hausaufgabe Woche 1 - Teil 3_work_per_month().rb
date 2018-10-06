@@ -27,7 +27,7 @@ def work_per_month(worklist)
     #      puts workdays[i]
           workmedian[i]=workpm[i]/workdays[i]
              
-       
+    #   
                    
    
          end        
